@@ -1,5 +1,7 @@
 [![Build Status](https://garfbradaz.visualstudio.com/Space%20Game/_apis/build/status/garfbradaz.mslearn-tailspin-spacegame-web?branchName=master)](https://garfbradaz.visualstudio.com/Space%20Game/_build/latest?definitionId=1&branchName=master)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=garfbradaz_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=garfbradaz_mslearn-tailspin-spacegame-web)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
