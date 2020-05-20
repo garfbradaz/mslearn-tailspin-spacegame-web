@@ -1,3 +1,4 @@
+[![Build Status](https://garfbradaz.visualstudio.com/Space%20Game/_apis/build/status/garfbradaz.mslearn-tailspin-spacegame-web?branchName=master)](https://garfbradaz.visualstudio.com/Space%20Game/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
